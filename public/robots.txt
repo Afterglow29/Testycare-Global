@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://testycare-global.com/sitemap.xml
